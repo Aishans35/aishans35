@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I'm currently working on<br> Python Mini Projects<br>Building my GitHub portfolio<br>Strengthening programming fundamentals<br>🌱 I'm currently learning<br>Python<br>Web Development<br>👯 I'm looking to collaborate on<br>Python projects<br>Web development projects<br>Open-source contributions<br>🤝 I'm looking for help with<br>Internship preparation<br>Advanced Python<br>Full-stack development<br>💬 Ask me about<br>Python basics <br>HTML<br>CSS<br>GitHub<br>⚡ Fun fact<br>I'm a 3rd-year Computer Science student who enjoys learning by building projects and sharing them on GitHub.
+Hi I'm Aisha N S 👋
+## 🔭 I'm currently working on
+<br> Python Mini Projects<br>Building my GitHub portfolio<br>Strengthening programming fundamentals<br>
+## 🌱 I'm currently learning
+<br>Python<br>Web Development<br>
+## 👯 I'm looking to collaborate on
+<br>Python projects<br>Web development projects<br>Open-source contributions<br>
+## 🤝 I'm looking for help with
+<br>Internship preparation<br>Advanced Python<br>Full-stack development<br>
+## 💬 Ask me about
+<br>Python basics <br>HTML<br>CSS<br>GitHub<br>
+## ⚡ Fun fact<br>
+I'm a 3rd-year Computer Science student who enjoys learning by building projects and sharing them on GitHub.
 
 
 ## 🌐 Socials:
@@ -20,4 +32,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Aishans35&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
